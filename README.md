@@ -5,8 +5,8 @@ This application supports Neural style transfer on images in two modes.
 1. fasttransform - Using DeepAI API.
 2. deeptransform - Using [Neural Style Transfer with tf.keras](https://colab.research.google.com/github/tensorflow/models/blob/master/research/nst_blogpost/4_Neural_Style_Transfer_with_Eager_Execution.ipynb)
 
-**Major Dependency:**:
-* DeepAI API.
+**Major Dependency:**
+* DeepAI API
 > https://deepai.org/api-docs/#neural-style
 * TensorFlow and Keras
 * Celery
