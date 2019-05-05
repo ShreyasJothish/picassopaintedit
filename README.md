@@ -1,7 +1,7 @@
 # picassopaintedit
 Neural style transfer on images using [DeepAI API](http://deepai.org) and [Tensorflow Example](https://medium.com/tensorflow/neural-style-transfer-creating-art-with-deep-learning-using-tf-keras-and-eager-execution-7d541ac31398)
 
-This application supports Neural style transfer on images in two modes.
+This application supports neural style transfer on images in two modes.
 1. fasttransform - Using DeepAI API.
 2. deeptransform - Using [Neural Style Transfer with tf.keras](https://colab.research.google.com/github/tensorflow/models/blob/master/research/nst_blogpost/4_Neural_Style_Transfer_with_Eager_Execution.ipynb)
 
